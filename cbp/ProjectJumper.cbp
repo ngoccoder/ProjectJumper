@@ -32,7 +32,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="../Source Code/main.cpp" />
+		<Unit filename="../hnsrc/main.cpp" />
+		<Unit filename="../hnsrc/player.cpp" />
+		<Unit filename="../hnsrc/player.h" />
+		<Unit filename="../hnsrc/render.cpp" />
+		<Unit filename="../hnsrc/render.h" />
+		<Unit filename="../hnsrc/utility.h" />
+		<Unit filename="../hnsrc/window.cpp" />
+		<Unit filename="../hnsrc/window.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

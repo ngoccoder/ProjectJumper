@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1584205420 source:d:\laptrinh\github\projectjumper\source code\main.cpp
+	<iostream>
+
+1651844658 source:d:\laptrinh\github\projectjumper\main.cpp
+	<iostream>
+	"utility.h"
+
+1651844884 d:\laptrinh\github\projectjumper\utility.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1652020728 source:d:\laptrinh\github\projectjumper\hnsrc\main.cpp
+	<iostream>
+	"utility.h"
+	"window.h"
+	"render.h"
+
+1652007195 d:\laptrinh\github\projectjumper\hnsrc\utility.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1652019554 d:\laptrinh\github\projectjumper\hnsrc\window.h
+	"SDL.h"
+	"utility.h"
+
+1652019565 source:d:\laptrinh\github\projectjumper\hnsrc\window.cpp
+	"window.h"
+
+1651846765 source:d:\laptrinh\github\projectjumper\hnsrc\render.cpp
+	"render.h"
+	"utility.h"
+
+1652006163 d:\laptrinh\github\projectjumper\hnsrc\render.h
+	"SDL.h"
+
+1652006163 source:d:\laptrinh\github\projectjumper\hnsrc\player.cpp
+	"player.h"
+
+1652006163 d:\laptrinh\github\projectjumper\hnsrc\player.h
+
