@@ -7,7 +7,7 @@ application::application()
         {
 	    	if(gEvent.type == SDL_QUIT)
 	    	{
-	     		running = false;
+	     		running = true;
 	    	}
 			if(gEvent.type == SDL_KEYDOWN)
 			{
